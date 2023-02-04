@@ -1,0 +1,59 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+background-color: #35424a;
+} 
+
+.sarlavha{
+    background-color: #35424a;
+    border-bottom: 5px solid coral;
+}
+
+
+.navbar  li{
+    display: inline;
+}
+.navbar li a{
+    text-decoration: none;
+    color: #fff;
+    font-family: sans-serif;
+    padding: 25px 15px;
+    display: inline-block; 
+  }
+
+  .navbar li a:hover{
+    color: burlywood
+}
+.rasmla{
+    display: flex;
+    height: 500px;
+  padding: 21px;
+justify-content: space-between;
+}
+
+.div{
+    display: flex;
+    height: 500px; 
+   justify-content: space-between;
+}
+
+
+.rasmlar{
+    display: flex;
+  padding: 58px;
+justify-content:center;
+}
+
+
+.rasmlar{
+    display: flex;
+  padding: 58px;
+
+}
+.map{
+  color: #fff;
+}
